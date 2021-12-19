@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" href="./img/undraw_Developer_activity_re_39tg" height="175px"/></a>
+<a href="#"><img width="100%"  src="./img/undraw_developer_activity_re_39tg (2).svg" height="250px"/></a>
 
 <h1 align="center">Hi <img src="" width="30px">, I'm Felipe Joazeiro</h1>
 <h3 align="center">I'm a Developer looking for oportunity from Brazil.</h3>

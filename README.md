@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently developing a **[Eccommerce Website](https://github.com/felipejoazeiro/ecommerAdminPage)**
+- 🔭 I’m currently developing for **Condor non-lethal Technologies [https://www.condornaoletal.com.br/?lang=en]**
 
-- 🌱 I’m currently learning **Php and Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felipejoazeiro@gmail.com**
 
-- ⚡ Fun fact **I play games, read books like Name of the Wind and A Song of Ice and Fire and I listen to PodCasts everyday.**
+- ⚡ About me **I play games, read books like Name of the Wind and A Song of Ice and Fire and I listen to PodCasts everyday.**
 
 ## 🚀 Languages and Tools:
 

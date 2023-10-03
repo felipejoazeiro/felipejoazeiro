@@ -1,7 +1,7 @@
 <a href="#"><img width="100%"  src="./img/undraw_developer_activity_re_39tg (2).svg" height="250px"/></a>
 
 <h1 align="center">Hi, I'm Felipe Joazeiro</h1>
-<h3 align="center">I'm a Developer looking for interviews from Brazil.</h3>
+<h3 align="center">I'm a Developer looking for contacts around the world.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felipejoazeiro@gmail.com**
 
-- ⚡ About me **I play games, read books like Name of the Wind and A Song of Ice and Fire and I listen to PodCasts everyday.**
+- ⚡ About me **I play games, read books like Name of the Wind and A Song of Ice and Fire and I listen to PodCasts everyday. **
 
 ## 🚀 Languages and Tools:
 
